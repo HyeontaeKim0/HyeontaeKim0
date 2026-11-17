@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/react%20native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </div>
+<br/>
 
 <p align="center"><b>Styling</b></p>
 <div align="center">
@@ -44,7 +45,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 </div>
-
+<br/>
 <p align="center"><b>State · Data</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/tanstack%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
@@ -52,13 +53,13 @@
   <img src="https://img.shields.io/badge/redux%20toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" />
 </div>
-
+<br/>
 <p align="center"><b>Data Visualization</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/recharts-22B5BF?style=for-the-badge&logoColor=white" />
 </div>
-
+<br/>
 <p align="center"><b>Testing · Quality</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
