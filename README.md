@@ -85,6 +85,6 @@
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=22ABF3" />
+ 
 </div>
 
