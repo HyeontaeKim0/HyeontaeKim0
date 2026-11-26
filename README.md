@@ -16,8 +16,10 @@
 
 <div align="center">
 
-**[DayFit](https://github.com/HyeontaeKim0/DayFit-)** — 밀린 계획을 AI가 다시 맞춰주는 주간 일정 에이전트<br/>
-<sub>자연어로 일정 추가 · AI 재배치 변경안 미리보기 · 사용자 승인 후 반영</sub>
+**[F1 Dashboard](https://github.com/HyeontaeKim0/Formula1_Dashboard-Site)** — 포뮬러1 시즌 일정·결과·순위를 한눈에 보는 대시보드<br/>
+<sub>측정 기반 성능 개선 · 서버 컴포넌트 전환 · Claude Code 서브에이전트로 개발</sub>
+
+[🔗 Live](https://formula1-dashboard.vercel.app/)
 
 </div>
 
